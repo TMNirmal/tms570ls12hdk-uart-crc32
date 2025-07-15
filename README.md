@@ -35,4 +35,4 @@ This project implements a high-speed UART-based CRC32 calculator using the TI TM
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tms570ls12hdk-uart-crc32.git
+   git clone https://github.com/TMNirmal/tms570ls12hdk-uart-crc32.git
